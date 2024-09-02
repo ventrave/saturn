@@ -23,3 +23,5 @@ cd $DVP
  # unsquashfs-line
   
   # '
+
+  }
